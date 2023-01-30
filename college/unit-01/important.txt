@@ -1,0 +1,6 @@
+# Create API document
+python3 -m pydoc -w Sample
+your python version module pydoc webpage 
+where as sample is the name of Sample.pydoc
+
+pyhton3 -m pydoc -w M1_OtherFunctions
